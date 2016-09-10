@@ -22,7 +22,7 @@ node SocketClient.js
 ```
 第六，在SocketClient发送数据给SocketServer.js。数据位于data.js文件里面，一行一行复制，然后回车即可发送。
 
-第七，启动WebServer.js，命令：
+第七，另起一个命令行窗口以启动WebServer.js，命令：
 ```shell
 node WebServer.js
 ```
